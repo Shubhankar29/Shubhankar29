@@ -6,13 +6,13 @@
 ### <div align="center">This is Shubhankar Bhosle a computer science student from Pune</div>  
   
 
-- 🔭 I’m currently working on competitive coding and web development.  
+- 🔭 I’m currently working in the data science domain.  
   
 
-- 🌱 I’m currently learning data structures and algorithms  
+- 🌱 I’m currently learning data analysis libraries.  
   
 
-- ⚽ Hobbies: I like to play football, weight lifting, and fashion designing  
+- ⚽ Hobbies: I like to play football, weight lifting, and drawing 
   
 
 <br/>  
